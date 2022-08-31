@@ -8,7 +8,7 @@ pkg update -y
 pkg install -y python ffmpeg
 
 # install spotdl
-pip install -U spotdl
+pip install -U --force spotdl==4.0.0rc3
 
 if [ ! -d "$HOME/bin" ]; then
     mkdir "$HOME/bin"
