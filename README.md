@@ -58,7 +58,7 @@ Refer to our [Installation Guide](https://spotdl.rtfd.io/en/latest/installation/
 - Prebuilt Executable
   - You can download the latest version from the [Releases Tab](https://github.com/spotDL/spotify-downloader/releases)
 - On Termux
-  - `curl -L https://raw.githubusercontent.com/spotDL/spotify-downloader/master/scripts/termux.sh | sh`
+  - `curl -L https://raw.githubusercontent.com/Horosho9741/spotify-downloader/master/scripts/termux.sh | sh`
 - Arch
   - There is an Arch User Repository (AUR) package for [spotDL](https://aur.archlinux.org/packages/python-spotdl/).
 - Docker
